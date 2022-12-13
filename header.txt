@@ -1,4 +1,7 @@
 
 Some text for file
+
 Changes from <master>
+Changes from <first>
+
 New changes
