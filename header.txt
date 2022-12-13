@@ -1,3 +1,4 @@
 
 Some text for file
 Changes from <master>
+New changes
